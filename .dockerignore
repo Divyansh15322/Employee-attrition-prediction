@@ -1,0 +1,9 @@
+Human_Resources.csv
+train.py
+__pycache__/
+*.pyc
+.git
+.gitignore
+README.md
+venv/
+.venv/
